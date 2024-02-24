@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CNNinternational" tvg-logo="https://epg.112114.xyz/logo/CNN国际.png" group-title="国际",CNN International
-https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-name="CNNinternational" tvg-logo="https://epg.112114.xyz/logo/CNN国际.png" group-title="国际",CNN News
+http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1 tvg-id="Foxnewyork" tvg-name="Foxnewyork" tvg-logo="https://epg.112114.xyz/logo/FOX5.png" group-title="国际",FOX New York
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1 tvg-id="Foxnews" tvg-name="Foxnews" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际",FOX News
@@ -33,6 +33,14 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/NHKWorldJapan.png" group-title="国际",NHK World 
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BA.png" group-title="国际",Bloomberg Asia
+https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TheGuardian.png" group-title="国际",The Guardian Channel
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="国际",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="国际",Brics Chinese 
@@ -110,30 +118,6 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Wild Planet
-https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
-#EXTINF:-1 tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="国际",A2 CNN (720p)
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ACNN.ng" tvg-logo="https://i.imgur.com/91JLpxr.png" group-title="国际",ACNN (480p)
-https://webstreaming.viewmedia.tv/web_014/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="国际",CNN Brasil (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
-#EXTINF:-1 tvg-id="CNNChile.cl" tvg-logo="https://i.imgur.com/t4EXijz.png" group-title="国际",CNN Chile (720p)
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",CNN en Español
-http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
-http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="国际",CNN Indonesia (720p) [Geo-blocked]
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="国际",CNN International Europe (720p)
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-logo="https://i.imgur.com/WrmeIco.png" group-title="国际",CNN News 18 (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="国际",CNN Portugal (720p)
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="国际",CNN Türk (720p)
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="国际",CNN USA (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNj.jp" tvg-logo="https://i.imgur.com/Ft6wEdO.png" group-title="国际",CNNj (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u
+#EXTINF:-1 group-title="国际",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
