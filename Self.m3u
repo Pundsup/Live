@@ -17,6 +17,8 @@ http://148.135.93.213:81/live/huya/136596
 http://148.135.93.213:81/live/huya/546540
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/baihe99&douyin&logo" , 白荷
 http://148.135.93.213:81/live/douyin/56047112534
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/baihe99&douyin&logo" , 白荷测试接口
+https://live.iill.top/douyin.php?id=baihe99
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/MuziaDY123&douyin&logo" , Tek
 https://live.iill.top/douyin.php?id=MuziaDY123
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/mwzy711&douyin&logo" , 迷雾之夜狼人杀
