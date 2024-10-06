@@ -10,6 +10,7 @@
 //台湾
 🇨🇳 TW-WaWo = trojan, stock.hostmonit.com, 443, password=SurgePro, sni=tw.cnmmb.com, ws=true, ws-path=/surgepro, ws-headers=Host:"tw.cnmmb.com"
 🇨🇳 TW Pqs Hinet 68m = ss, hinet.mynezha.top, 48216, encrypt-method=aes-128-gcm, password=NlhOUUU0ZjB1S0xlMjNtV3ZLeFFBaDFSdEl3TmxyR201YWYwaGJRYlFEaE1nNmk1Skp6b0g1RHdhNmlKRmo4WA==
+🇨🇳 TW-WaWo-IPv6 =snell, tai.cnmmb.com, 44444, psk=SurgePro, version=4
 //香港
 //韩国
 🇰🇷 Oracle-Seoul-ARM-Tuic5 = tuic-v5, 132.226.238.252, 60166, password=cjw1986!, uuid=DE31649B-3B98-2A38-8514-04FCCAE6DEFC, alpn=h3, skip-cert-verify=true, sni=www.bing.com
