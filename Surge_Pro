@@ -12,11 +12,13 @@
 🇨🇳 TW Pqs Hinet 68m = ss, hinet.mynezha.top, 48216, encrypt-method=aes-128-gcm, password=NlhOUUU0ZjB1S0xlMjNtV3ZLeFFBaDFSdEl3TmxyR201YWYwaGJRYlFEaE1nNmk1Skp6b0g1RHdhNmlKRmo4WA==
 🇨🇳 TW-WaWo-IPv6 =snell, tai.cnmmb.com, 44444, psk=SurgePro, version=4
 //香港
+🇭🇰 HKG(HostHatch)V6= ss, 2406:ef80:1:c362:48::e645, 18519, encrypt-method=aes-256-gcm, password=b4COgYkkb/71XplPXmoKKgj6e0, udp-relay=true
 //韩国
 🇰🇷 Oracle-Seoul-ARM-Tuic5 = tuic-v5, 132.226.238.252, 60166, password=cjw1986!, uuid=DE31649B-3B98-2A38-8514-04FCCAE6DEFC, alpn=h3, skip-cert-verify=true, sni=www.bing.com
 🇰🇷 Oracle-Seoul-ARM-SN = snell, 132.226.238.252, 16888, psk=cjw1986!, version=4, reuse=true, tfo=true
 🇰🇷 Oracle-Seoul-ARM-HY2 = hysteria2, 132.226.238.252, 3443, password=cjw1986!, download-bandwidth=500, ecn=true, skip-cert-verify=true, sni=arm.56881186.xyz
 🇰🇷 SEL (Oracle Cloud) = snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
+🇰🇷 K01 x V6= hysteria2, paskr.cnmmb.com, 44443, password=LiangZai, block-quic=off, ecn=true, sni=off, server-cert-fingerprint-sha256=b9:1d:e4:bf:bf:fc:32:fc:6b:f0:c0:5a:1a:e4:c2:77:e8:67:2a:bb:c5:c3:cb:9f:5f:aa:b9:7d:1a:05:67:5d, port-hopping=50001-59999, port-hopping-interval=15
 //日本
 🇯🇵 Green [N] = snell, 141.98.196.4, 14250, psk=8QYc9zTowGlChZDIce684lNcD5k6DhE, obfs=http, version=4, reuse=true, block-quic=on
 🇯🇵 East JP（Azure） = snell, 48.210.56.220, 80, psk=ukl9o1uKOi1r1yBqwMXtk2sKNIS06z9M8UiFQ0kSTGk=, obfs=http, obfs-host=snell.v4.host, version=4, reuse=true, tfo=true
