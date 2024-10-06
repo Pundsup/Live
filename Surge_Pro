@@ -6,6 +6,7 @@
 🇸🇬 S01 = snell, 20.247.217.184, 80, psk=ukl9o1uKOi1r1yBqwMXtk2sKNIS06z9M8UiFQ0kSTGk=, obfs=http, obfs-host=snell.v4.host, version=4, reuse=true, tfo=true
 🇸🇬 SIN (Oracle Cloud) = snell, oracle.sin.as917.net, 36917, psk=3e7CJusBYkomy8S0, version=4
 🇸🇬 S02（Azure） = snell, 52.148.92.233, 44944, psk=jPtXuDHmuwv2FwAN, version=4, tfo=true
+🇸🇬 Lightsail [N] = snell, 54.251.105.125, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
 //台湾
 🇨🇳 TW-WaWo = trojan, stock.hostmonit.com, 443, password=SurgePro, sni=tw.cnmmb.com, ws=true, ws-path=/surgepro, ws-headers=Host:"tw.cnmmb.com"
 🇨🇳 TW Pqs Hinet 68m = ss, hinet.mynezha.top, 48216, encrypt-method=aes-128-gcm, password=NlhOUUU0ZjB1S0xlMjNtV3ZLeFFBaDFSdEl3TmxyR201YWYwaGJRYlFEaE1nNmk1Skp6b0g1RHdhNmlKRmo4WA==
