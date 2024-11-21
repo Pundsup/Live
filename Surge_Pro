@@ -13,6 +13,8 @@
 🇨🇳 TW-WaWo-IPv6 =snell, tai.cnmmb.com, 44444, psk=SurgePro, version=4
 //香港
 🇭🇰 HKG(HostHatch)V6= ss, 2406:ef80:1:c362:48::e645, 18519, encrypt-method=aes-256-gcm, password=b4COgYkkb/71XplPXmoKKgj6e0, udp-relay=true
+HK1 = snell, 50.114.152.50, 2345, psk=0VwWwETKHynSDmjM, version=4, tfo=true
+HK2 = snell, 50.114.155.180, 2345, psk=0Pqy6YRQMEPY0IoF, version=4, tfo=true
 //韩国
 🇰🇷 Oracle-Seoul-ARM-Tuic5 = tuic-v5, 132.226.238.252, 60166, password=cjw1986!, uuid=DE31649B-3B98-2A38-8514-04FCCAE6DEFC, alpn=h3, skip-cert-verify=true, sni=www.bing.com
 🇰🇷 Oracle-Seoul-ARM-SN = snell, 132.226.238.252, 16888, psk=cjw1986!, version=4, reuse=true, tfo=true
