@@ -3,12 +3,10 @@
 http://148.135.93.213:81/live/huya/998
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/482&huya&logo" , 单身狗
 http://148.135.93.213:81/live/huya/482
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/84ca4c94-7b4d-4770-b503-fb8a42afc879-profile_image-50x50.png" , RachtaZ
-https://live.iill.top/twitch/RachtaZ
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7ed5e0c6-0191-4eef-8328-4af6e4ea5318-profile_image-50x50.png" , shroud
-https://live.iill.top/twitch/shroud
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9f74581-c0e8-4638-8629-51dbfe401335-profile_image-50x50.png" , Emiru
-https://live.iill.top/twitch/Emiru
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/baihe99&douyin&logo" , 白荷
+http://148.135.93.213:81/live/douyin/56047112534
+#EXTINF:-1 tvg-logo="" , 小新
+http://148.135.93.213:81/live/douyin/694562812381
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/924593&huya&logo" , 天天
 http://148.135.93.213:81/live/huya/924593
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/565371&huya&logo" , 小毅
@@ -23,15 +21,16 @@ http://148.135.93.213:81/live/huya/1995
 http://148.135.93.213:81/live/huya/136596
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/546540&huya&logo" , 权威
 http://148.135.93.213:81/live/huya/546540
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/baihe99&douyin&logo" , 白荷
-http://148.135.93.213:81/live/douyin/56047112534
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/MuziaDY123&douyin&logo" , Tek
-http://148.135.93.213:81/live/douyin/316601671371
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/mwzy711&douyin&logo" , 迷雾之夜狼人杀
-https://live.iill.top/douyin.php?id=mwzy711
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/84ca4c94-7b4d-4770-b503-fb8a42afc879-profile_image-50x50.png" , RachtaZ
+https://live.iill.top/twitch/RachtaZ
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7ed5e0c6-0191-4eef-8328-4af6e4ea5318-profile_image-50x50.png" , shroud
+https://live.iill.top/twitch/shroud
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9f74581-c0e8-4638-8629-51dbfe401335-profile_image-50x50.png" , Emiru
+https://live.iill.top/twitch/Emiru
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/139619960&douyin&logo" , 小甜龙
 https://live.iill.top/douyin/139619960
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342421&huya&logo" , 林正英
 http://148.135.93.213:81/live/huya/11342421
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342412&huya&logo" , 周星星
 http://148.135.93.213:81/live/huya/11342412
+
