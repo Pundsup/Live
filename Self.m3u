@@ -5,12 +5,14 @@ http://148.135.93.213:81/live/huya/998
 http://148.135.93.213:81/live/huya/482
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/baihe99&douyin&logo" , 白荷
 http://148.135.93.213:81/live/douyin/56047112534
+#EXTINF:-1 tvg-logo="" , 张总管
+http://148.135.93.213:81/live/douyin/84636588598
 #EXTINF:-1 tvg-logo="" , 林树
 http://148.135.93.213:81/live/douyin/504448096643
 #EXTINF:-1 tvg-logo="https://content.buoin.sbs/images/xiaoxin.jpg" , 小新
 http://148.135.93.213:81/live/douyin/694562812381
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/baihe99&douyin&logo" , 张总管
-http://148.135.93.213:81/live/douyin/84636588598
+#EXTINF:-1 tvg-logo="" , Zyy
+http://148.135.93.213:81/live/douyin/822037288014
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/924593&huya&logo" , 天天
 http://148.135.93.213:81/live/huya/924593
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/565371&huya&logo" , 小毅
