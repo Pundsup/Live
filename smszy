@@ -1,0 +1,22 @@
+{
+  "cache_time": 7200,
+  "api_site": {
+    "ikunzy": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "name": "ikun资源",
+      "detail": ""
+    },
+    "jszy": {
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "name": "极速资源",
+      "detail": ""
+    }
+  },
+  "custom_category": [
+    {
+      "name": "美剧",
+      "type": "tv",
+      "query": "美剧"
+    }
+  ]
+}
