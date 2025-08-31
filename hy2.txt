@@ -1,0 +1,3 @@
+🇭🇰 Direct HKT = hysteria2, hkt.buoin.sbs, 45012, password=ZtAqaph56wcKShuXbt8Rhnup, download-bandwidth=125, skip-cert-verify=true, sni=bing.com
+🇯🇵 Direct CSTServer = hysteria2, cstjp.buoin.sbs, 24511, password=lox6FppUkWRgPl6b7mrpb2uC, download-bandwidth=45
+🇸🇬 Direct Amazon = hysteria2, awssg.buoin.sbs, 41250, password=hlv9Judlsofksdfklldsf, download-bandwidth=160
