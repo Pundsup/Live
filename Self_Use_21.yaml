@@ -14,27 +14,6 @@ profile:
   tracing: true
 experimental:
   sniff-tls-sni: true
-dns:
-  enable: true
-  ipv6: true
-  listen: 0.0.0.0:53
-  fake-ip-filter:
-    - "*.lan"
-    - "*.srv.nintendo.net"
-    - "*.stun.playstation.net"
-    - xbox.*.microsoft.com
-    - "*.xboxlive.com"
-    - "*.teafone.com"
-    - "*.sktswe.net"
-    - rtc.goodfone.co.kr
-    - "*.chattti.com"
-  nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-    - tls://223.5.5.5:853
-    - tls://223.6.6.6:853
-    - tls://120.53.53.53
-    - tls://1.12.12.12
 proxies:
   - name: "HK 01"
     type: ss
