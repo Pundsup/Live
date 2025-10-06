@@ -63,6 +63,18 @@ proxies:
     ip-version: ipv4
     tfo: true
     dialer-proxy: HK-Flower
+  - name: "SG 01"
+    type: ss
+    server: bagesgs04.56789123.xyz
+    port: 13101
+    cipher: aes-128-gcm
+    password: "b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+    dialer-proxy: SG-Flower
   - name: "JP 01"
     type: ss
     server: bagejp05.56789123.xyz
@@ -98,7 +110,8 @@ proxy-groups:
       - HK 01
       - HK 02 RFCHost
       - HK 03 HKT
-      - HK 04 HKT2    
+      - HK 04 HKT2
+      - SG 01
       - JP 01
       - US 01
   - name: HK-Flower
