@@ -99,10 +99,10 @@ proxies:
     ip-version: ipv4
     tfo: true
     dialer-proxy: US-Flower
-  - {name: 🇭🇰 香港实验性 IEPL 专线 1, server: gzdata1.233netpro.com, port: 10011, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 1754574b8e.m.ctrip.com}, udp: true}
-  - {name: 🇯🇵 日本实验性 IEPL 专线 1, server: shdata1.233netpro.com, port: 10021, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 1754574b8e.m.ctrip.com}, udp: true}
-  - {name: 🇸🇬 新加坡实验性 IEPL 专线 1, server: gzdata1.233netpro.com, port: 10031, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 1754574b8e.m.ctrip.com}, udp: true}
-  - {name: 🇺🇸 美国实验性 IEPL 专线 1, server: shdata1.233netpro.com, port: 10051, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 1754574b8e.m.ctrip.com}, udp: true}
+  - {name: 🇭🇰 香港实验性 IEPL 专线 1, server: pregzdata1.233netpre.org, port: 10011, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 244547b381.m.ctrip.com}, udp: true}
+  - {name: 🇯🇵 日本实验性 IEPL 专线 1, server: preshdata1.233netpre.org, port: 10021, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 244547b381.m.ctrip.com}, udp: true}
+  - {name: 🇸🇬 新加坡实验性 IEPL 专线 1, server: pregzdata1.233netpre.org, port: 10031, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 244547b381.m.ctrip.com}, udp: true}
+  - {name: 🇺🇸 美国实验性 IEPL 专线 1, server: preshdata1.233netpre.org, port: 10051, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 244547b381.m.ctrip.com}, udp: true}
 proxy-groups:
   - name: Proxies
     type: select
