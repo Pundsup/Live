@@ -122,7 +122,7 @@ proxy-groups:
       - HK 02 RFCHost
       - HK 03 HKT
       - HK 04 HKT2
-      - SG 01
+      - SG 01 legend
       - JP 01
       - JP 02 KDDI
       - US 01
