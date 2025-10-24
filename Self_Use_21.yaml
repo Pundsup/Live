@@ -63,12 +63,12 @@ proxies:
     ip-version: ipv4
     tfo: true
     dialer-proxy: HK-Flower
-  - name: "SG 01"
+  - name: "SG 01 legend"
     type: ss
-    server: bagesgs04.56789123.xyz
+    server: 92.112.22.161
     port: 443
     cipher: aes-128-gcm
-    password: "b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
+    password: "w6l6fMKwHQ7Du8KJfco0wrYWMcO6w78vB8KTwos8TynDp1nDrMKwLw4PDuMOOL8KSwpY="
     udp: true
     udp-over-tcp: true
     udp-over-tcp-version: 2
@@ -87,6 +87,17 @@ proxies:
     ip-version: ipv4
     tfo: true
     dialer-proxy: JP-Flower
+  - name: "JP 02 KDDI"
+    type: ss
+    server: 14.103.135.33
+    port: 62861
+    cipher: aes-128-gcm
+    password: "N8/yCA2/C9qGw18tf/UtDlp1f5waBFZteZWG+qs83ws="
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
   - name: "US 01"
     type: ss
     server: bagela02.56789123.xyz
@@ -113,6 +124,7 @@ proxy-groups:
       - HK 04 HKT2
       - SG 01
       - JP 01
+      - JP 02 KDDI
       - US 01
   - name: HK-Flower
     type: select
