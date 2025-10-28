@@ -1,0 +1,166 @@
+  - name: "HK-Flower"
+    type: ss
+    server: pregzdata1.233netpre.org
+    port: 10011
+    cipher: aes-128-gcm
+    password: "Sj10bnYDe7w6V29E"
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: "244547b381.m.ctrip.com"
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+
+  - name: "JP-Flower"
+    type: ss
+    server: preshdata1.233netpre.org
+    port: 10021
+    cipher: aes-128-gcm
+    password: "Sj10bnYDe7w6V29E"
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: "244547b381.m.ctrip.com"
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+
+  - name: "SG-Flower"
+    type: ss
+    server: pregzdata1.233netpre.org
+    port: 10031
+    cipher: aes-128-gcm
+    password: "Sj10bnYDe7w6V29E"
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: "244547b381.m.ctrip.com"
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+
+  - name: "US-Flower"
+    type: ss
+    server: preshdata1.233netpre.org
+    port: 10051
+    cipher: aes-128-gcm
+    password: "Sj10bnYDe7w6V29E"
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: "244547b381.m.ctrip.com"
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+## 以下是需要配置代理链的节点
+  - name: "HK 01"
+    type: ss
+    server: bage.buoin.sbs
+    port: 41276
+    cipher: aes-128-gcm
+    password: "asd321"
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+    dialer-proxy: HK-Flower
+
+  - name: "HK 02 RFCHost"
+    type: ss
+    server: 172.81.111.95
+    port: 10458
+    cipher: aes-128-gcm
+    password: "3Qfv1G2djLxDVGQlhfIl1fGKzl8D4OlJDi+OZg/ZBXQ="
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+    dialer-proxy: HK-Flower
+
+  - name: "HK 03 HKT"
+    type: ss
+    server: hkt.buoin.sbs
+    port: 45010
+    cipher: aes-128-gcm
+    password: "QOuecIcRODa5T/VfdfaUsTnSe8/kII8pFKA3LUYw2K8="
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+    dialer-proxy: HK-Flower
+
+  - name: "HK 04 HKT2"
+    type: ss
+    server: hkt297.6544557.xyz
+    port: 13101
+    cipher: aes-128-gcm
+    password: "b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+    dialer-proxy: HK-Flower
+
+  - name: "SG 01 legend"
+    type: ss
+    server: 92.112.22.161
+    port: 443
+    cipher: aes-128-gcm
+    password: "w6l6fMKwHQ7Du8KJfco0wrYWMcO6w78vB8KTwos8TynDp1nDrMKwLw4PDuMOOL8KSwpY="
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+    dialer-proxy: SG-Flower
+
+  - name: "JP 01"
+    type: ss
+    server: bagejp05.56789123.xyz
+    port: 13101
+    cipher: aes-128-gcm
+    password: "b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+    dialer-proxy: JP-Flower
+
+  - name: "JP 02 KDDI"
+    type: ss
+    server: 14.103.135.33
+    port: 62861
+    cipher: aes-128-gcm
+    password: "N8/yCA2/C9qGw18tf/UtDlp1f5waBFZteZWG+qs83ws="
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+
+  - name: "US 01"
+    type: ss
+    server: bagela02.56789123.xyz
+    port: 13101
+    cipher: aes-128-gcm
+    password: "b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
+    udp: true
+    udp-over-tcp: true
+    udp-over-tcp-version: 2
+    ip-version: ipv4
+    tfo: true
+    dialer-proxy: US-Flower
