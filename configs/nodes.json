@@ -1,58 +1,7 @@
-[
-  {
-    "name": "HK 01",
-    "type": "ss",
-    "server": "oi1.buoic.com",
-    "port": 12889,
-    "encrypt-method": "aes-128-gcm",
-    "password": "aVVgdoZVEeeeuMynMe"
-  },
-  {
-    "name": "HK 02 RFChost",
-    "type": "ss",
-    "server": "oi1.buoic.com",
-    "port": 12888,
-    "encrypt-method": "aes-128-gcm",
-    "password": "3Qfv1G2djLxDVGQlhfIl1fGKzl8D4OlJDi+OZg/ZBXQ="
-  },
-  {
-    "name": "SG 01",
-    "type": "ss",
-    "server": "oi1.buoic.com",
-    "port": 12887,
-    "encrypt-method": "aes-128-gcm",
-    "password": "b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
-  },
-  {
-    "name": "JP 01",
-    "type": "ss",
-    "server": "mk5.buoic.com",
-    "port": 35755,
-    "encrypt-method": "aes-128-gcm",
-    "password": "b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
-  },
-  {
-    "name": "JP 02",
-    "type": "ss",
-    "server": "mk5.buoic.com",
-    "port": 35757,
-    "encrypt-method": "aes-128-gcm",
-    "password": "b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
-  },
-  {
-    "name": "JP 03 KDDI家宽",
-    "type": "ss",
-    "server": "mk6.buoic.com",
-    "port": 62861,
-    "encrypt-method": "aes-128-gcm",
-    "password": "N8/yCA2/C9qGw18tf/UtDlp1f5waBFZteZWG+qs83ws="
-  },
-  {
-    "name": "US 01",
-    "type": "ss",
-    "server": "mk5.buoic.com",
-    "port": 35756,
-    "encrypt-method": "aes-128-gcm",
-    "password": "b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
-  }
-]
+HK 01=ss,oi1.buoic.com,12889,encrypt-method=aes-128-gcm,password="aVVgdoZVEeeeuMynMe"
+HK 02 RFChost=ss,oi1.buoic.com,12888,encrypt-method=aes-128-gcm,password="3Qfv1G2djLxDVGQlhfIl1fGKzl8D4OlJDi+OZg/ZBXQ="
+SG 01=ss,oi1.buoic.com,12887,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
+JP 01=ss,mk5.buoic.com,35755,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
+JP 02=ss,mk5.buoic.com,35757,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
+JP 03 KDDI家宽=ss,mk6.buoic.com,62861,encrypt-method=aes-128-gcm,password="N8/yCA2/C9qGw18tf/UtDlp1f5waBFZteZWG+qs83ws="
+US 01=ss,mk5.buoic.com,35756,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
