@@ -20,7 +20,7 @@ proxies:
     server: bage.buoin.sbs
     port: 41276
     cipher: aes-128-gcm
-    password: "asd321"
+    password: "aVVgdoZVEeeeuMynMe"
     udp: true
     udp-over-tcp: true
     udp-over-tcp-version: 2
