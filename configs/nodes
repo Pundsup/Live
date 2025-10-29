@@ -8,4 +8,4 @@ US 01=ss,mk5.buoic.com,35756,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-
 US 02=ss,mk5.buoic.com,35758,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
 HK 10 实验性=ss,al8.buoic.com,64120,encrypt-method=aes-128-gcm,password="aVVgdoZVEeeeuMynMe"
 SG 10 实验性=ss,al8.buoic.com,64121,encrypt-method=aes-128-gcm,password="w6l6fMKwHQ7Du8KJfcO0wrYWMcO6w78vB8KTwos8TynDp1nDrMKjw4PDuMONL8KSwpY="
-MO 01 实现性=ss,io1.buoic.com,12890,encrypt-method=2022-blake3-aes-128-gcm,password="gFbC4hxpDL+AVsLiHGkMvw=="
+MO 01 实验性=ss,io1.buoic.com,12890,encrypt-method=2022-blake3-aes-128-gcm,password="gFbC4hxpDL+AVsLiHGkMvw=="
