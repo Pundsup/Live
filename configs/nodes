@@ -1,7 +1,7 @@
 HK 01=ss,io1.buoic.com,12889,encrypt-method=aes-128-gcm,password="aVVgdoZVEeeeuMynMe"
 SG 01=ss,io1.buoic.com,12887,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
 JP 01=ss,mk5.buoic.com,35755,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
-JP 02 KDDI家宽=ss,mk6.buoic.com,62861,encrypt-method=aes-128-gcm,password="N8/yCA2/C9qGw18tf/UtDlp1f5waBFZteZWG+qs83ws="
+JP 02 KDDI家宽=ss,mk5.buoic.com,35757,encrypt-method=aes-128-gcm,password="N8/yCA2/C9qGw18tf/UtDlp1f5waBFZteZWG+qs83ws="
 US 01=ss,mk5.buoic.com,35756,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
 SG 10 实验性=ss,gz-sg-iplc-at-01.d2jiasu.top,64120,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
 SG 11 实验性=ss,gz-sg-iplc-at-01.d2jiasu.top,64121,encrypt-method=aes-128-gcm,password="b315ce8d-d6fb-41f8-80f5-7df3e0ee6ab6"
