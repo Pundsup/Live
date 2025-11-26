@@ -7,10 +7,12 @@ http://36.158.237.95:36020/huya.php?id=482
 http://36.158.237.95:36020/douyin.php?type=uid&stream=hls&uid=1111520bh
 #EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/2021713.&douyin&logo" , 张总管
 http://36.158.237.95:36020/douyin.php?type=uid&stream=hls&uid=2021713.
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/924593&huya&logo" , 天天
-http://36.158.237.95:36020/huya.php?id=924593
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/565371&huya&logo" , 小毅
 http://36.158.237.95:36020/huya.php?id=565371
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/713352&huya&logo" , 萝莉控啊
+http://36.158.237.95:36020/huya.php?id=713352
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/924593&huya&logo" , 天天
+http://36.158.237.95:36020/huya.php?id=924593
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/348884499&douyin&logo" , 奶油蛋糕
 http://36.158.237.95:36020/douyin.php?type=uid&stream=hls&uid=348884499
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/527988&huya&logo" , 祖师爷童锦程
